@@ -1,5 +1,5 @@
 # LegalX - A C# Project
-This project was done as a part of my exam for my programming course at my University. 
+This project was done as a part of my exam for my programming course at my university.
 
 ## Technical concepts
 This program has a hardcoded database in which the users of the program can interact with. The project incorporates different concepts within object-oriented programming. The concepts and methods that are used are: inheritance, classes, interfaces, abstract methods, objects, try-catch statements, input validation and more.
